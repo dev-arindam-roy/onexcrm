@@ -1,0 +1,17 @@
+https://markjs.io/
+https://jsfiddle.net/julmot/bs69vcqL/
+https://jsfiddle.net/julmot/vpav6tL1/
+
+https://abouolia.github.io/sticky-sidebar/#examples
+
+npm i bootstrap@4.6.0
+
+https://github.com/barryvdh/laravel-debugbar
+composer require barryvdh/laravel-debugbar --dev
+
+https://github.com/CodeSeven/toastr
+https://codeseven.github.io/toastr/demo.html
+
+https://sweetalert2.github.io/#download
+
+https://jqueryvalidation.org/documentation/

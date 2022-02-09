@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js?id=0c9e1ff3d97155ef1bde",
+    "/css/app.css": "/css/app.css?id=b3f9b41cbfde63a6ef04",
+    "/fonts/FerroRosso.ttf": "/fonts/FerroRosso.ttf?id=39e127fa276a607a2072",
+    "/audio/error.mp3": "/audio/error.mp3?id=ae0374788249cf30caec",
+    "/audio/error.ogg": "/audio/error.ogg?id=0878e56cdd7e075f65ef",
+    "/audio/success.mp3": "/audio/success.mp3?id=1661138dd00f0a9cce07",
+    "/audio/success.ogg": "/audio/success.ogg?id=d0b539d336396667f387",
+    "/audio/warning.mp3": "/audio/warning.mp3?id=7468b3ab7fdc3a9f6f21",
+    "/audio/warning.ogg": "/audio/warning.ogg?id=78c663a8f8fb2fc06d7b",
+    "/css/server-module.min.css": "/css/server-module.min.css?id=0c065bd81f9303f40e8d"
+}

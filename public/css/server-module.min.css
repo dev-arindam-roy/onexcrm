@@ -1,0 +1,7 @@
+mark{
+    background: #ffc107;
+    color: black;
+}
+.make-me-sticky {
+    position: fixed;
+}
